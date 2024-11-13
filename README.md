@@ -19,8 +19,22 @@
 # 📊 GitHub Stats
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=judynicky&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-# My favourite content creators
-[Magdeline Huang](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Magdeline Huang")](https://youtu.be/@MagdelineHuang)
+
+# I am learning from these fantastic persons.
+[Magdeline Huang](https://magdelinehuang.com/)
+[Cyb3rMaddy](https://linktr.ee/Cyb3rMaddy)
+[Mishmanners](https://mishmanners.info/)
+[theminimaljess](https://theminimaljess.com/)
+[Tekie's Corner](https://sophyia.me/)
+[NikaVsCode](https://nikavscode.com/)
+[Harshleen Chawla](https://linktr.ee/Harshleen_Chawla)
+[Amanda](https://github.com/amandamartin-dev)
+[Coder Coder](https://coder-coder.com/)
+[Kylie Ying](https://www.kylieying.com/)
+[Code With Estefania](https://codingwithestefania.hashnode.dev/)
+[Keren Elazari](https://www.k3r3n3.com/)
+Still more on my playlist....?
+
 
 ## Let's Connect!
 I'm always open to new opportunities and collaborations.
