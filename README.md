@@ -21,18 +21,18 @@
 ![](https://github-readme-stats.vercel.app/api?username=judynicky&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # I am learning from these fantastic persons.
-[Magdeline Huang](https://magdelinehuang.com/)
-[Cyb3rMaddy](https://linktr.ee/Cyb3rMaddy)
-[Mishmanners](https://mishmanners.info/)
-[theminimaljess](https://theminimaljess.com/)
-[Tekie's Corner](https://sophyia.me/)
-[NikaVsCode](https://nikavscode.com/)
-[Harshleen Chawla](https://linktr.ee/Harshleen_Chawla)
-[Amanda](https://github.com/amandamartin-dev)
-[Coder Coder](https://coder-coder.com/)
-[Kylie Ying](https://www.kylieying.com/)
-[Code With Estefania](https://codingwithestefania.hashnode.dev/)
-[Keren Elazari](https://www.k3r3n3.com/)
+[Magdeline Huang](https://magdelinehuang.com/)<br/>
+[Cyb3rMaddy](https://linktr.ee/Cyb3rMaddy)<br/>
+[Mishmanners](https://mishmanners.info/)<br/>
+[theminimaljess](https://theminimaljess.com/)<br/>
+[Tekie's Corner](https://sophyia.me/)<br/>
+[NikaVsCode](https://nikavscode.com/)<br/>
+[Harshleen Chawla](https://linktr.ee/Harshleen_Chawla)<br/>
+[Amanda](https://github.com/amandamartin-dev)<br/>
+[Coder Coder](https://coder-coder.com/)<br/>
+[Kylie Ying](https://www.kylieying.com/)<br/>
+[Code With Estefania](https://codingwithestefania.hashnode.dev/)<br/>
+[Keren Elazari](https://www.k3r3n3.com/)<br/>
 Still more on my playlist....?
 
 
