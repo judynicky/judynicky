@@ -22,6 +22,7 @@
 
 # I am learning from these fantastic persons.
 [Magdeline Huang](https://magdelinehuang.com/)<br/>
+[Angela Yu](https://appbrewery.com/courses)
 [Cyb3rMaddy](https://linktr.ee/Cyb3rMaddy)<br/>
 [Mishmanners](https://mishmanners.info/)<br/>
 [theminimaljess](https://theminimaljess.com/)<br/>
