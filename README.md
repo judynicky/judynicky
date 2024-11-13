@@ -34,6 +34,8 @@
 [Kylie Ying](https://www.kylieying.com/)<br/>
 [Code With Estefania](https://codingwithestefania.hashnode.dev/)<br/>
 [Keren Elazari](https://www.k3r3n3.com/)<br/>
+[With Sandra](https://linktr.ee/with.sandra)<br/>
+[addielamarr.sh](https://www.instagram.com/addielamarr.sh?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 Still more on my playlist....?
 
 
